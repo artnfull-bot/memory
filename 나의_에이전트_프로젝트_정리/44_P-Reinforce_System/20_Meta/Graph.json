@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "P-Reinforce_Guide",
+      "name": "P-Reinforce 실무 가이드",
+      "path": "10_Wiki/Skills/P-Reinforce_Guide.md"
+    },
+    {
+      "id": "Policy",
+      "name": "시스템 정책",
+      "path": "20_Meta/Policy.md"
+    }
+  ],
+  "links": [
+    {
+      "source": "P-Reinforce_Guide",
+      "target": "Policy"
+    }
+  ]
+}

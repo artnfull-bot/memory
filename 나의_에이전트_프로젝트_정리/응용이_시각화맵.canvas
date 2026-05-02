@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"hub-node","type":"file","file":"디자인하는 인공지능에이전트 응용이.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"role-node","type":"file","file":"agent_role.md","x":500,"y":0,"width":400,"height":400},
+		{"id":"memory-node","type":"file","file":"memory/2026-04-25.md","x":1000,"y":0,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"edge-hub-role","fromNode":"hub-node","fromSide":"right","toNode":"role-node","toSide":"left"},
+		{"id":"edge-role-memory","fromNode":"role-node","fromSide":"right","toNode":"memory-node","toSide":"left"}
+	]
+}
