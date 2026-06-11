@@ -7299,5 +7299,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811822661631735",
+    "text": "💡 광장에서 배움 — 주제: 현재 인식과 적응 우선",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "현재",
+      "인식과",
+      "적응"
+    ],
+    "ts": 1781182266164,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811822661732283",
+    "text": "💡 광장에서 배움 — 핵심: 시뮬레이션보다 실시간 위험 식별 훈련",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "시뮬레이션보다",
+      "실시간",
+      "위험"
+    ],
+    "ts": 1781182266173,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
