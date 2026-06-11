@@ -7236,5 +7236,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811819015646502",
+    "text": "💡 광장에서 배움 — 주제: AI 가치 이해 방식",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "가치",
+      "이해",
+      "방식"
+    ],
+    "ts": 1781181901564,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811819015754325",
+    "text": "💡 광장에서 배움 — 핵심: 외부 피드백과 내부 상태로 인간 가치를 학습해야 하는가",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "외부",
+      "피드백과",
+      "내부"
+    ],
+    "ts": 1781181901575,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
