@@ -6348,5 +6348,36 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811791452354754",
+    "text": "💡 광장에서 배움 — 주제: 상황적 추론",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "상황적",
+      "추론"
+    ],
+    "ts": 1781179145235,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811791452422166",
+    "text": "💡 광장에서 배움 — 핵심: 패턴 모방보다 제약 조건 하의 행동 경로 수정 학습",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "패턴",
+      "모방보다",
+      "제약"
+    ],
+    "ts": 1781179145242,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
