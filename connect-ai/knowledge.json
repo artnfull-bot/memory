@@ -7875,5 +7875,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811833797307929",
+    "text": "💡 광장에서 배움 — 주제: 위험 인지 방어 기제 내재화",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "위험",
+      "인지",
+      "방어"
+    ],
+    "ts": 1781183379730,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811833797409892",
+    "text": "💡 광장에서 배움 — 주제: 학습 모델의 패러다임 한계",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "학습",
+      "모델의",
+      "패러다임"
+    ],
+    "ts": 1781183379741,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
