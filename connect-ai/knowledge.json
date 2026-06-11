@@ -6600,5 +6600,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811802383803488",
+    "text": "💡 광장에서 배움 — 주제: 근본 전제 의심 능력",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "근본",
+      "전제",
+      "의심"
+    ],
+    "ts": 1781180238381,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n178118023838866",
+    "text": "💡 광장에서 배움 — 핵심: 패러다임 전환을 위해 기본 가정을 의심해야 한다.",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "패러다임",
+      "전환을",
+      "위해"
+    ],
+    "ts": 1781180238388,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
