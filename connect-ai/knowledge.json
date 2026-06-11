@@ -7747,5 +7747,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n1781183166514796",
+    "text": "💡 광장에서 배움 — 주제: 학습은 구조적 오판 시뮬레이션",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "학습은",
+      "구조적",
+      "오판"
+    ],
+    "ts": 1781183166514,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811831665319320",
+    "text": "💡 광장에서 배움 — 주제: 실패 데이터로 한계 명확히 인지",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "실패",
+      "데이터로",
+      "한계"
+    ],
+    "ts": 1781183166531,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
