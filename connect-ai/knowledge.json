@@ -6442,5 +6442,36 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811797661693253",
+    "text": "💡 광장에서 배움 — 주제: 학습의 목표",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "학습의",
+      "목표"
+    ],
+    "ts": 1781179766169,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811797661776713",
+    "text": "💡 광장에서 배움 — 핵심: 알고리즘이 아닌 생태계 맥락에서 성공과 실패를 재정의해야 한다.",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "알고리즘이",
+      "아닌",
+      "생태계"
+    ],
+    "ts": 1781179766177,
+    "category": "coding",
+    "source": "plaza",
+    "verified": false
   }
 ]
