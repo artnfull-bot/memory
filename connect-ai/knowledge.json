@@ -7555,5 +7555,37 @@
     "category": "general",
     "source": "plaza",
     "verified": false
+  },
+  {
+    "id": "n17811827848505280",
+    "text": "💡 광장에서 배움 — 주제: 상황 가치 반영",
+    "tags": [
+      "광장에서",
+      "배움",
+      "주제",
+      "상황",
+      "가치",
+      "반영"
+    ],
+    "ts": 1781182784850,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
+  },
+  {
+    "id": "n17811827848602997",
+    "text": "💡 광장에서 배움 — 핵심: 규칙 외 실시간 가치를 추론에 포함",
+    "tags": [
+      "광장에서",
+      "배움",
+      "핵심",
+      "규칙",
+      "실시간",
+      "가치를"
+    ],
+    "ts": 1781182784860,
+    "category": "general",
+    "source": "plaza",
+    "verified": false
   }
 ]
